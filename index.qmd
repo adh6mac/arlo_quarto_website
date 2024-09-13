@@ -1,0 +1,30 @@
+---
+title: "Arlo Heitler"
+
+about:
+  id: intro-heading
+
+  template: trestles
+  image: images/homepic.png
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/arlo-heitler-585723236/
+    - text: TFFRS (Track Stats)
+      href: https://www.tfrrs.org/athletes/8026053/Macalester/Arlo_Heitler
+---
+
+:::{#intro-heading}
+
+Brief description of me.
+
+Hi! My name is Arlo Heitler and I am currently a senior at Macalester College.
+
+## Education
+
+Macalester College | St. Paul MN <br>
+
+B.A. in Economics | Sept 2021 - May 2025
+Minors in Data Science, Environmental Studies
+
+:::
+---
